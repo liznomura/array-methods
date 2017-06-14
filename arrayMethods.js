@@ -53,3 +53,7 @@ var orderedValuesNewLength = orderedValues.unshift(1, 2, 3);
 //concat();
 var randomThingsArray = genericNumberArray.concat(colors);
 var updatedOrders = orderQueue.concat({takeOut : 'coffee'}, {takeOut : 'soup'});
+
+//join();
+var sentence = scrambledWords.join(' ');
+var myFruits = fruitCollection.join(' + ');
